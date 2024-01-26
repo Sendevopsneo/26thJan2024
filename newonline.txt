@@ -1,0 +1,6 @@
+This file is created from GitHub for testing purpose.
+Why it is easy to sync from windows?
+today afternoon i was unable to sync it from linux machine.
+What am i missing?
+Not sure what it is 
+Soon i will fix it.
